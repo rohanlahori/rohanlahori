@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am currently a third Year Undergraduate Student From LD COllege Of Engineering
+## I am currently a Third Year Undergraduate Student From LD COllege Of Engineering
 ## 📫 How to reach me: rohanlahori99@gmail.com
 ## 🌱 I’m currently learning Mern Stack
 ## 💬 Ask me about : DSA and Competitive Programming
