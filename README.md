@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am currently pursuing my final year of Engineering in Information Technology in LD COllege Of Engineering,Ahmeadabad.
+### I am currently pursuing my final year of Engineering in Information Technology in L.D. College Of Engineering,Ahmeadabad.
 ### 📫 How to reach me: rohanlahori99@gmail.com.
 ### 🌱 Currently working on Web Development and learning more DataStructures and Algorithms.
 ### ⚡ Passionate Badminton Player.
