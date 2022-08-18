@@ -29,10 +29,7 @@ Here are some ideas to get you started:
   <a href="html" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="html" /></a><a href="html" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="html" /> </a>
   
   <h3 align="left">Database:</h3>
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="c" /> </a>  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="c" /> </a>
-  
-  
-  
+  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="c" /> </a>  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="c" /> </a><br><br><br>
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanlahori&show_icons=true&locale=en" alt="rohanlahori" /></p>
 
