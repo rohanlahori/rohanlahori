@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am currently a Third Year Undergraduate Student From LD COllege Of Engineering
+#### I am currently a Third Year Undergraduate Student From LD COllege Of Engineering
 ## 📫 How to reach me: rohanlahori99@gmail.com
 ## 🌱 I’m currently learning Mern Stack
 ## 💬 Ask me about : DSA and Competitive Programming
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohan-lahori-aab2a0198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohan Lahori" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohanlahori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smit37_mist" height="30" width="40" /></a>
