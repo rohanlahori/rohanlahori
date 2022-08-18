@@ -1,9 +1,8 @@
 ### Hi there 👋
-#### I am currently a Third Year Undergraduate Student From LD COllege Of Engineering
-## 📫 How to reach me: rohanlahori99@gmail.com
-## 🌱 I’m currently learning Mern Stack
-## 💬 Ask me about : DSA and Competitive Programming
-
+### I am currently pursuing my final year of Engineering in Information Technology in LD COllege Of Engineering,Ahmeadabad.
+### 📫 How to reach me: rohanlahori99@gmail.com.
+### 🌱 Currently working on Web Development and learning more DataStructures and Algorithms.
+### ⚡ Passionate Badminton Player.
 
 
 <!--
