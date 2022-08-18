@@ -31,7 +31,9 @@ Here are some ideas to get you started:
   <h3 align="left">Database:</h3>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="c" /> </a>  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="c" /> </a>
   
+  
+  
+  
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanlahori&show_icons=true&locale=en" alt="rohanlahori" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanlahori&" alt="rohanlahori" /></p>
-<!-- Footer -->
