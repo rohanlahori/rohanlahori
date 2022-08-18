@@ -43,5 +43,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanlahori&" alt="rohanlahori" /></p>
  <br><br>
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=rohanlahori&theme=react-dark&hide_border=true&area=true)
+  
+  <br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vaibhav720&theme=react-dark&hide_border=true&area=true)
+
+<br/>
 
