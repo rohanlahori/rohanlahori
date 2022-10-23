@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohan-lahori-aab2a0198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohan Lahori" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rohanlahori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smit37_mist" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rohanlahori" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Rohan_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="qg3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohanlahori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qg3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohanlahori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages</h3>
 <p align="left"> 
