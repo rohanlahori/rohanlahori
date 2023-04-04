@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c#" />
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a><a href="javascript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /></a>
   
   <h3 align="left">Web Development</h3>
@@ -33,7 +32,9 @@ Here are some ideas to get you started:
   <a href="html" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="html" /></a><a href="html" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="html" /> </a>
   
   <h3 align="left">Database:</h3>
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="c" /> </a>  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="c" /> </a><br><br><br>
+  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="c" />
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+    </a>  <a href="" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="c" /> </a><br><br><br>
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanlahori&show_icons=true&locale=en&theme=radical" alt="Rohan Lahori" /></p><br>
 
