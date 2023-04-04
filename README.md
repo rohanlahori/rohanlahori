@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### I am pursuing my final year of Engineering in Information Technology in L.D. College Of Engineering, Ahmedabad.
 
-### 📫 How to reach me: rohanlahori99@gmail.com.
-### 🌱 Currently working on Web Development and learning more DataStructures and Algorithms.
-### ⚡ Passionate Badminton Player.
+### Reach me: rohanlahori99@gmail.com.
+### LinkedIn:https://www.linkedin.com/in/rohan-lahori-aab2a0198/   
+### 🌱 Currently working on backend development framework for building web apps and services with .NET and C#.
 
 
 <!--
