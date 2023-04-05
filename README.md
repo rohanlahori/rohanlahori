@@ -4,7 +4,7 @@
 ### Reach me: rohanlahori99@gmail.com
 ### Resume: https://drive.google.com/file/d/1zab8wd-P1-4xt_rUg78MSklaGKaeRnCT/view?usp=sharing
 ### LinkedIn: https://www.linkedin.com/in/rohan-lahori-aab2a0198/   
-### 🌱 Currently working on backend development framework for building web apps and services with .NET and C# and worked on Relational Databse SQL and basic of Behaviour Driven Development for unit testing
+### 🌱 Currently working on backend development framework for building web apps and services with .NET and C# and worked on Relational Databse SQL and basics of Behaviour Driven Development for unit testing
 
 
 <!--
