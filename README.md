@@ -6,8 +6,8 @@
 ### Reach me: rohanlahori99@gmail.com
 ### Resume: https://drive.google.com/file/d/1fryMkC8K2IBMmw3cWiBd-qa56fSsEznI/view
 ### LinkedIn: https://www.linkedin.com/in/rohan-lahori-aab2a0198/   
-### 🌱 Worked on:
-### Backend development using Rest architecture in Asp.Net framework and C# language.
+### Worked on:
+<b>Backend development</b> using <b>Rest</b> architecture in <b>Asp.Net</b> framework and <b>C#</b> language.
 ### Database design and use of SQL for managing and manipulating databases.
 ### Behavior-Driven Development (BDD) for testing all the endpoints of APIs using Specflow & Gherkin syntax.
 ### Vue Js for building user interfaces (UIs) and creating interactive web applications.
