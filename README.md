@@ -7,10 +7,10 @@
 ### Resume: https://drive.google.com/file/d/1fryMkC8K2IBMmw3cWiBd-qa56fSsEznI/view
 ### LinkedIn: https://www.linkedin.com/in/rohan-lahori-aab2a0198/   
 ### Worked on:
-<h3><b>Backend development</b> using <b>Rest</b> architecture in <b>Asp.Net</b> framework and <b>C#</b> language.</h3>
-<h3><b>Database design</b> and use of <b>SQL</b> for managing and manipulating databases.</h3>
-<h3><b>Behavior-Driven Development (BDD)</b> for testing all the endpoints of APIs using <b>Specflow & Gherkin</b> syntax.</h3>
-<h3><b>Vue Js</b> for building user interfaces (UIs) and creating interactive web applications.</h3>
+<h4><b>Backend development</b> using <b>Rest</b> architecture in <b>Asp.Net</b> framework and <b>C#</b> language.</h4>
+<h4><b>Database design</b> and use of <b>SQL</b> for managing and manipulating databases.</h4>
+<h4><b>Behavior-Driven Development (BDD)</b> for testing all the endpoints of APIs using <b>Specflow & Gherkin</b> syntax.</h4>
+<h4><b>Vue Js</b> for building user interfaces (UIs) and creating interactive web applications.</h4>
 
 
 ### Previously, I worked as a freelance problem-setter Intern for creating problems on various data structures and algorithms at iMocha.
