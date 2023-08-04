@@ -1,10 +1,21 @@
 ### Hi there 👋
-### I am pursuing my final year of Engineering in Information Technology in L.D. College Of Engineering, Ahmedabad.
+### Myself Rohan Lahori from Gandhidham, Kutch Gujarat.
+### I have completed my bachelor's from L.D College Of Engineering in Information Technology.
+
 
 ### Reach me: rohanlahori99@gmail.com
-### Resume: https://drive.google.com/file/d/1zab8wd-P1-4xt_rUg78MSklaGKaeRnCT/view?usp=sharing
+### Resume: https://drive.google.com/file/d/1fryMkC8K2IBMmw3cWiBd-qa56fSsEznI/view
 ### LinkedIn: https://www.linkedin.com/in/rohan-lahori-aab2a0198/   
-### 🌱 Currently working on backend development framework for building web apps and services with .NET and C# and worked on Relational Databse SQL and basics of Behaviour Driven Development for unit testing
+### 🌱 Worked on:
+### Backend development using Rest architecture in Asp.Net framework and C# language.
+### Database design and use of SQL for managing and manipulating databases.
+### Behavior-Driven Development (BDD) for testing all the endpoints of APIs using Specflow & Gherkin syntax.
+### Vue Js for building user interfaces (UIs) and creating interactive web applications.
+
+### Previously, I worked as a freelance problem-setter Intern for creating problems on various data structures and algorithms at iMocha.
+
+### I am passionate about problem-solving and have practiced problems on various coding platforms.
+
 
 
 <!--
