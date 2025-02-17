@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 ### Myself Rohan Lahori from Gandhidham, Kutch Gujarat.
 ### I have completed my bachelor's from L.D College Of Engineering in Information Technology.
@@ -17,7 +18,7 @@
 
 ### I am passionate about problem-solving and have practiced problems on various coding platforms.
 
-
+-->
 
 <!--
 **rohanlahori/rohanlahori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 -->
  
 
-  
+  <!--
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanlahori&show_icons=true&locale=en&theme=radical" alt="Rohan Lahori" /></p><br>
 
 
@@ -47,4 +48,4 @@ Here are some ideas to get you started:
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=rohanlahori&theme=react-dark&hide_border=true&area=true)
 
 <br/>
-
+-->
